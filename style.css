@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+}
+#movieRatingForm {
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: darkslategray;
+    border-style: solid;
+}
+#movieRatingList {
+    list-style-type: none;
+    padding-top: 20px;
+}
