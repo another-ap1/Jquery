@@ -17,3 +17,10 @@ h1{
     list-style-type: none;
     padding-top: 20px;
 }
+.rmv{
+    border-radius: 8px;
+    margin: 10px;
+}
+.rmv:hover{
+    background-color: darkslategray;
+}
